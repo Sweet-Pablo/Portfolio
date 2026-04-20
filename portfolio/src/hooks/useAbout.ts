@@ -15,7 +15,7 @@ const defaultAbout: AboutData = {
   name: "Paul Davliakos",
   title: "University of Pittsburgh Engineering Student",
   location: "Pittsburgh, PA",
-  bio: "I am a first year engineering student at Pitt.",
+  bio: "I am a first year engineering student at Pitt. I love building my ideas and project from scratch. From basic electronics like soildering and circuts to 3d printing housing and mechanical parts I like to create, build, and bring my ideas to life. ",
   skills: ["Electronics", "Design", "3D Printing"],
   github: "https://github.com",
   linkedin: "https://linkedin.com",
