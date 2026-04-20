@@ -12,6 +12,15 @@ export const SEED_PROJECTS: Project[] = [
     teamMembers: ['Paul', 'Matt', 'Julian'],
     technologies: ['iPhone App (Prototype)', 'Replit'],
     links: [],
-    photos: [],
+photos: [
+  "/pitt-carpool-photo-1.jpg",
+  "/pitt-carpool-photo-2.jpg",
+  "/pitt-carpool-photo-3.jpg",
+  "/pitt-carpool-photo-4.jpg",
+  "/pitt-carpool-photo-5.jpg",
+  "/pitt-carpool-photo-6.jpg",
+  "/pitt-carpool-photo-7.jpg",
+  "/pitt-carpool-photo-8.jpg",
+],
   },
 ];
