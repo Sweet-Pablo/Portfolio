@@ -12,14 +12,14 @@ export interface AboutData {
 }
 
 const defaultAbout: AboutData = {
-  name: "Your Name",
-  title: "Software Engineer",
-  location: "San Francisco, CA",
-  bio: "I build robust systems and beautiful interfaces.",
-  skills: ["TypeScript", "React", "Node.js"],
+  name: "Paul Davliakos",
+  title: "University of Pittsburgh Engineering Student",
+  location: "Pittsburgh, PA",
+  bio: "I am a first year engineering student at Pitt.",
+  skills: ["Electronics", "Design", "3D Printing"],
   github: "https://github.com",
   linkedin: "https://linkedin.com",
-  email: "hello@example.com"
+  email: "davliakos4@gmail.com"
 };
 
 export function useAbout() {
